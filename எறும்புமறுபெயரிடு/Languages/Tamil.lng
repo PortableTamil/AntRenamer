@@ -6,7 +6,7 @@ LocalName=தமிழ்
 Version=2.12
 VersionFormat=2.12
 Comments=பிற மொழிபெயர்ப்புகளுக்கான குறிப்பு / மாதிரி கோப்பு.|நீங்கள் நிரலை ஆங்கிலத்தில் பயன்படுத்த விரும்பினால், அதை மாற்ற விரும்பவில்லை எனில், "ஆங்கிலம் (இயல்புநிலை)" ஐத் தேர்ந்தெடுக்க பரிந்துரைக்கப்படுகிறது.
-Authors=அனிஷ் பிரபு தி (AnishPrabu T)|anishprabu243@gmail.com
+Authors=தமிழ்நேர குழு|https://TamilNeram.github.io
 -->
 <Application>
   <MainForm>
